@@ -14,6 +14,7 @@
 - git clone 'repositories link'
 - ls
 - cd "foldername"
+- 
 - git add .
 - git commit -m "messages"
 - git push origin main
